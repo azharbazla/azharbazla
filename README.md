@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64c9c5a9c3203c879323c9ea?variant=dark)](https://roadmap.sh)
 <!--
 **azharbazla/azharbazla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
