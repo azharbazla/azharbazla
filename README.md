@@ -1,8 +1,8 @@
 # Hello, I'm Azhar Bazla 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=your-username&color=green)
+![Profile views](https://komarev.com/ghpvc/?username=your-username&color=green&style=flat-square)
 
-Welcome to my GitHub! I'm a passionate Developer with a love for building any projects. Here, you'll find a collection of my work.
+Welcome to my GitHub! I'm a passionate Developer with a love for building any project. Here, you'll find a collection of my work.
 
 I love learning new things and challenging myself to grow as a developer.
 
