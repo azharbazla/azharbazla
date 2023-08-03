@@ -23,7 +23,7 @@ I love learning new things and challenging myself to grow as a developer.
 
 Let's connect and collaborate! You can find me on:
 
-- [LinkedIn](linkedin.com/in/azharbazla/)
+- [LinkedIn](https://linkedin.com/in/azharbazla/)
 
 Feel free to check out my repositories, and I'd love to connect with fellow developers, share knowledge, and collaborate on exciting projects. Don't hesitate to reach out if you have any questions or just want to chat!
 
